@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-30T21:54:10 ICT" name="Suite" finished-at="2023-01-30T21:55:17 ICT" duration-ms="67442">
+    <groups>
+    </groups>
+    <test started-at="2023-01-30T21:54:10 ICT" name="Test" finished-at="2023-01-30T21:55:17 ICT" duration-ms="67442">
+      <class name="testGuru2.TestClass1">
+        <test-method is-config="true" signature="beforeLaunchURL()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:10 ICT" name="beforeLaunchURL" finished-at="2023-01-30T21:54:18 ICT" duration-ms="8241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLaunchURL -->
+        <test-method signature="compareTwoProducts1()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:18 ICT" name="compareTwoProducts1" finished-at="2023-01-30T21:54:28 ICT" duration-ms="9302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareTwoProducts1 -->
+        <test-method is-config="true" signature="closeCurrentBrowser()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:28 ICT" name="closeCurrentBrowser" finished-at="2023-01-30T21:54:29 ICT" duration-ms="1295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentBrowser -->
+        <test-method is-config="true" signature="beforeLaunchURL()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:29 ICT" name="beforeLaunchURL" finished-at="2023-01-30T21:54:35 ICT" duration-ms="6133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLaunchURL -->
+        <test-method signature="verifyCreateECommerceAct()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:35 ICT" name="verifyCreateECommerceAct" finished-at="2023-01-30T21:54:46 ICT" duration-ms="10440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateECommerceAct -->
+        <test-method is-config="true" signature="closeCurrentBrowser()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:46 ICT" name="closeCurrentBrowser" finished-at="2023-01-30T21:54:46 ICT" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentBrowser -->
+        <test-method is-config="true" signature="beforeLaunchURL()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:46 ICT" name="beforeLaunchURL" finished-at="2023-01-30T21:54:52 ICT" duration-ms="6013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLaunchURL -->
+        <test-method signature="verifyErrorMsg()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:52 ICT" name="verifyErrorMsg" finished-at="2023-01-30T21:54:57 ICT" duration-ms="5209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMsg -->
+        <test-method is-config="true" signature="closeCurrentBrowser()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:57 ICT" name="closeCurrentBrowser" finished-at="2023-01-30T21:54:58 ICT" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentBrowser -->
+        <test-method is-config="true" signature="beforeLaunchURL()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:54:58 ICT" name="beforeLaunchURL" finished-at="2023-01-30T21:55:04 ICT" duration-ms="6292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLaunchURL -->
+        <test-method signature="verifyProductPriceFromDetailPage()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:55:04 ICT" name="verifyProductPriceFromDetailPage" finished-at="2023-01-30T21:55:07 ICT" duration-ms="3073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductPriceFromDetailPage -->
+        <test-method is-config="true" signature="closeCurrentBrowser()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:55:07 ICT" name="closeCurrentBrowser" finished-at="2023-01-30T21:55:08 ICT" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentBrowser -->
+        <test-method is-config="true" signature="beforeLaunchURL()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:55:08 ICT" name="beforeLaunchURL" finished-at="2023-01-30T21:55:14 ICT" duration-ms="6091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLaunchURL -->
+        <test-method signature="verifyTitle()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:55:14 ICT" name="verifyTitle" finished-at="2023-01-30T21:55:17 ICT" duration-ms="3502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="closeCurrentBrowser()[pri:0, instance:testGuru2.TestClass1@708f5957]" started-at="2023-01-30T21:55:17 ICT" name="closeCurrentBrowser" finished-at="2023-01-30T21:55:17 ICT" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeCurrentBrowser -->
+      </class> <!-- testGuru2.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
